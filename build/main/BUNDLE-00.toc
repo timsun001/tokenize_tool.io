@@ -1,0 +1,3 @@
+([('main',
+   '/Users/suntian/GitHub/huitun/wordseg_tool/dist/main',
+   'EXECUTABLE')],)

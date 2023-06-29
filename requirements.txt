@@ -1,0 +1,5 @@
+re
+jieba
+pandas
+tkinter
+subprocess
